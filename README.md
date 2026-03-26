@@ -4,6 +4,8 @@ A premium Android application that showcases products using the [DummyJSON API](
 
 ## 🚀 Features
 
+![App Screenshot](images/img.png)
+
 - **Product Listing**: Browse a wide range of products with high-quality images.
 - **Search**: Quickly find products by title.
 - **Category Filtering**: Filter products by category using intuitive chips.
